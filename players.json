@@ -2,7 +2,7 @@
     {
       "name": "Fowxt",
       "tiers": [
-        { "tier": "LT2", "kit": "SMP", "peakTier": "HT1" },
+        { "tier": "LT2", "kit": "SMP", "peakTier": "HT2" },
         { "tier": "HT1", "kit": "UHC" },
         { "tier": "HT3", "kit": "SERB" },
         { "tier": "LT2", "kit": "SWORD"},
